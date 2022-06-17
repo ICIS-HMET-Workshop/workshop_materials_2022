@@ -11,6 +11,6 @@ This preconference workshop has two parts. In the first part, a tutorial will co
 | 10:00-10:10 | Sara Schroer (UT Austin) | Data Quality | 
 | 10:10-10:50 | Chen Yu (UT Austin) | Data Analysis | 
 | 10:50-11:00 | Break |   | 
-| 11:00-11:20 | David Crandall and ... | Title | 
+| 11:00-11:20 | David Crandall | Analyzing egocentric video and gaze data using computer vision | 
 | 11:20-11:40 | Brianna Kaplan, Kelsey West, Justine Hoch, Karen Adolph | Head-mounted eye tracking reveals structure in children’s learning environments | 
 | 11:40-12:00 | Irina Castellanos | Title | 
