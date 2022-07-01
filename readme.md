@@ -17,9 +17,6 @@ This preconference workshop has two parts. In the first part, a tutorial will co
 
 # Head-mounted eye tracking resources
 
-## Conference Slides and Recordings
-
-
 ## Software
 [Eye Tracking Accuracy Calculator](https://john-franchak.shinyapps.io/Eye-Tracking-Accuracy-Calculator/) - Use point of gaze images to estimate the spatial offset in degrees for a participant's calibration
 
