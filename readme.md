@@ -27,7 +27,11 @@ This preconference workshop has two parts. In the first part, a tutorial will co
 
 ## Papers
 [Franchak & Yu, 2022](https://padlab.ucr.edu/publications/2022-FranchakYu-Advances.pdf) - Chapter with best practices for collecting head-mounted eye tracking data with infants
+
 [Franchak, 2020](https://padlab.ucr.edu/publications/2020-Franchak-PLM.pdf) - Chapter reviewing work using head-mounted eye tracking in infants and adults in naturalistic tasks
+
 [Slone et al., 2018](https://www.jove.com/video/58496/gaze-action-head-mounted-eye-tracking-children-s-dynamic-visual) - Video article showing step-by-step procedures for gathering head-mounted eye tracking data
+
 [Franchak, 2017](https://padlab.ucr.edu/publications/2017-Franchak-CambridgeEncy.pdf) - Primer on head-mounted eye tracking
+
 [Franchak, Kretch, Soska, & Adolph, 2011](https://padlab.ucr.edu/publications/2011-FranchakKretchSoskaAdolph-ChiDev.pdf) - Introduced new head-mounted eye tracking method with infants
