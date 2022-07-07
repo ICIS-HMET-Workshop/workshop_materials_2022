@@ -9,11 +9,11 @@ This preconference workshop has two parts. In the first part, a tutorial will co
 | 09:00-09:10 | Karen Adolph (New York University) | Introduction | 
 | 09:10-10:00 | John Franchak (UC Riverside) | Data Collection | 
 | 10:00-10:10 | Sara Schroer (UT Austin) | Data Quality | 
-| 10:10-10:50 | Chen Yu (UT Austin) | Data Analysis | 
-| 10:50-11:00 | Break |   | 
-| 11:00-11:20 | David Crandall | Analyzing egocentric video and gaze data using computer vision | 
-| 11:20-11:40 | Brianna Kaplan, Kelsey West, Justine Hoch, Karen Adolph | Head-mounted eye tracking reveals structure in children’s learning environments | 
-| 11:40-12:00 | Irina Castellanos and Derek Houston | Effects of auditory experience on parent-child interactions | 
+| 10:10-10:30 | David Crandall | Analyzing egocentric video and gaze data using computer vision | 
+| 10:30-10:50 | Brianna Kaplan, Kelsey West, Justine Hoch, Karen Adolph | Head-mounted eye tracking reveals structure in children’s learning environments | 
+| 10:50-11:10 | Irina Castellanos and Derek Houston | Effects of auditory experience on parent-child interactions | 
+| 11:10-11:20 | Break |   | 
+| 11:20-12:00 | Chen Yu (UT Austin) | Data Analysis | 
 
 # Head-mounted eye tracking resources
 
