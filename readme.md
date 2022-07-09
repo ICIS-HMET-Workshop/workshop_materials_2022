@@ -15,6 +15,8 @@ This preconference workshop has two parts. In the first part, a tutorial will co
 | 11:10-11:20 | Break |   | 
 | 11:20-12:00 | Chen Yu (UT Austin) | Data Analysis | 
 
+The full video recording can be viewed from [here](https://urldefense.com/v3/__https:/osu.zoom.us/rec/share/5wuD2e5_YkF3c6jkqWMJJmyQKagieBtvjeTZSk-Eu7s4NomtbGBY35HaExTd43et.TeobpHwaHgKHuPBQ__;!!KGKeukY!wUBTINriaktlmhbCQvsQ_rAyIGdlMs7SZmod6FquXeIsUWJz1lg6LzmZwDNi-giNDsyrzHrpgFPlYojJntre8ro$).
+
 # Head-mounted eye tracking resources
 
 ## Software
